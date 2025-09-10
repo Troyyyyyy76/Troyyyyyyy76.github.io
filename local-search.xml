@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>第一篇博客</title>
+    <link href="/Troyyyyyyy76.github.io/2025/09/10/blog/"/>
+    <url>/Troyyyyyyy76.github.io/2025/09/10/blog/</url>
+    
+    <content type="html"><![CDATA[<p>welcome my blog</p><h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/Troyyyyyyy76.github.io/2025/09/09/hello-world/"/>
     <url>/Troyyyyyyy76.github.io/2025/09/09/hello-world/</url>
